@@ -1,0 +1,17 @@
+/*class Name {
+
+}
+console.log(typeof Name)
+
+//instancja(na podstawie klasy powstaja instancje, obiekty docelowe)
+
+//hoisting -wciaganie deklaracji{} funkcji na gore sqoupa
+// class trzeba zadeklarowac zeby ich uzyc
+///
+Strict mode
+czesc operacji bedzie zakazana a czesc inaczej niz be strict mode(blokada deklaracji zmiennych bez wartosci(var,let))
+
+construktorjedna z deklaracji ma wartosc constructor
+*/
+
+THis wskazuje na kontekst odepalenia, bez okreslenia bedzie window
